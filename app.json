@@ -1,4 +1,9 @@
 {
   "name": "TrackEase",
-  "displayName": "TrackEase"
+  "displayName": "TrackEase",
+  "extra": {
+    "eas": {
+      "projectId": "df982f22-7086-4110-8092-035c9691c0a9"
+    }
+  }
 }
